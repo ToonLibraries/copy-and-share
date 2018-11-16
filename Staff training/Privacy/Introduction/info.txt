@@ -1,1 +1,10 @@
-Staff training on privacy. Meant as a 1-hour introduction, to start thinking about why we library staff should care and what we can do.
+Libraries for privacy - staff training on privacy
+
+Meant as a 1-hour introduction, to start thinking about why we library staff should care, how privacy issues affect us and what we can do. Inspired by training delivered by Scottish PEN in January 2017. Created and used with Newcastle Libraries staff in March 2017.
+
+Documents provided here to deliver the training:
+- Libraries for privacy slides (PDF and Powerpoint)
+- Libraries for privacy notes for facilitator
+- Threat modelling exercise sheet
+- Signal handout by CryptoParty Newcastle
+- Tor Browser handout by CryptoParty Newcastle
