@@ -1,0 +1,1 @@
+We started creating these to share on social media during the Covid-19 lockdown. All materials we created ourselves are shared under CC0, which means we have waived all copyright and you are welcome to use, copy, share and re-use them in any way you like!
